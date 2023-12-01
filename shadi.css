@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shaadi</title>
+</head>
+<body>
+    <h1>Find your perfect match on shaadi</h1>
+    <p>Are you looking for a Woman aged 22-27 of your religion? Let's get started with shaadi</p>
+    <button onclick="login()">Login V</button>
+    <button onclick="help()">Help ✓</button>
+
+    <script>
+        function login() {
+            window.location.href = "https://www.example.com/login";
+        }
+
+        function help() {
+            window.location.href = "https://www.example.com/help";
+        }
+    </script>
+</body>
+</html>
