@@ -1,0 +1,13 @@
+
+Pre requisite for the project to install in your system:
+•	Nodejs should be installed , Express should be installed.
+
+STEPS:
+1. Create folder demo and open in vs code.
+ 2.  Now open terminal enter in to the created directory
+ 3. Type ‘git clone {link from my github repo}’.
+4.Now you will get the repo clone of my project 
+5.Next run the commond ‘node server.js’ .
+6. Now the local server will start serving the html page 
+7 .There we can find our two page which accept data from the user .ie in our project we have two page which accepts the data from the user .ie order, login
+8. Now whatever data you enter in the login page will be stored in login section and order page will be stored in order section.
